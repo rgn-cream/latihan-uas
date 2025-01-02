@@ -1,4 +1,4 @@
 a = 2 
 b = 3 
-hasil = a*b 
-print(hasil)
+hasil_bagi = a/b 
+print(hasil_bagi)
