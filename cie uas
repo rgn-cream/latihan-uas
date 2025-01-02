@@ -4,3 +4,4 @@ b = 11
 
 kali = a*b 
 print (kali)
+print ('ya)
